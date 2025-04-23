@@ -26,29 +26,6 @@ Proyek ini dirancang untuk dapat diuji secara langsung melalui browser (tidak me
 - Tampilan hadiah acak saat berhasil
 - Desain elegan dengan efek blur dan bayangan
 
-## 📁 Struktur Folder
-project-root/
-├── index.html                # Main HTML file
-└── assets/
-    ├── img/
-    │   ├── bg/               # Background images
-    │   │   ├── bg_1.jpg
-    │   │   ├── bg_2.jpg
-    │   │   └── bg_3.jpg
-    │   ├── correct/          # Correct F images
-    │   │   ├── f_1.jpg
-    │   │   ├── f_2.jpg
-    │   │   └── f_3.jpg
-    │   ├── wrong/            # Incorrect distractor images
-    │   │   ├── layer_1.jpg
-    │   │   └── layer_7.jpg
-    │   └── reward/           # Reward images
-    │       ├── f_1.jpg
-    │       ├── f_2.jpg
-    │       ├── f_3.jpg
-    │       └── f_reward.jpg
-
-
 ## 👩‍💻 Cara Menjalankan
 
 1. Download atau clone repository ini.
